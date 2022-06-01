@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/frontpagebluebird?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sandeepkumarchauhan/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/frontpagebluebird?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sandeep11krch/)
  [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sandeepkumarchauhan/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:sandeepkc510@gmail.com)
 
@@ -61,6 +61,6 @@ Do you fancy saying hi to me or you want to get started with your project and yo
  </a>
 
 
-[twitter]: https://twitter.com/sandeepkumarchauhan/
+[twitter]: https://twitter.com/sandeep11krch
 [instagram]: https://instagram.com/sandeepkumarchauhan/
 [linkedin]: https://linkedin.com/in/sandeepkumarchauhan/
