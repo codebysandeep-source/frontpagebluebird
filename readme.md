@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
+<img align="right" src="[https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)" width='200'/>
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/sandeep11krch?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sandeep11krch/)
  [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sandeepkumarchauhan/) 
