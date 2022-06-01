@@ -8,7 +8,7 @@
  [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sandeepkumarchauhan/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:sandeepkc510@gmail.com)
 
-## LET ME INTRODUCE MYSELF
+## DJANGO FULLSTACK WEBAPP DEVELOPER
 
 ### About me
 Hi I'm Sandeep Kr Chauhan. I have a strong passion for webapp development. I specialize in front-end & back-end development and my passion is all about building  an elegant  and professional user interface and website. I also do branding and identity design such as  logo design, along with photo editing and other graphic.
