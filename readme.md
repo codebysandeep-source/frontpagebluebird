@@ -1,8 +1,8 @@
-### Hi there, I'm Sandeep Kr. Chauhan , a passionate WebApp Developer based in Django <img src="https://i.ibb.co/pRSngtP/alphatestersanimation2.gif" alt="alphatestersanimation2" border="0">
+### Hi there, I'm Sandeep Kr. Chauhan , a passionate WebApp Developer based in Django <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 
-<img align="right" src="https://i.ibb.co/XksVKSF/developer.gif" alt="developer" border="0" width='200'/>
+<img align="right" src="https://i.ibb.co/pRSngtP/alphatestersanimation2.gif" alt="developer" border="0" width='200'/>
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/sandeep11krch?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sandeep11krch/)
  [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sandeepkumarchauhan/) 
