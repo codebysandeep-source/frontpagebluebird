@@ -1,4 +1,4 @@
-### Hi there, I'm Sandeep Kr. Chauhan , a passionate WebApp Developer based in Django 
+### Hi there, I'm Sandeep Kr. Chauhan , a passionate WebApp Developer based in Python & Django 
 
 
 <img align="right" src="https://i.ibb.co/H2RBdWQ/hire-python-developer.png" alt="developer" border="0" width='200'/>
