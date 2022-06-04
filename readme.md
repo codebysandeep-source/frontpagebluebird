@@ -1,6 +1,4 @@
 ### Hi there, I'm Sandeep Kr. Chauhan , a passionate WebApp Developer based in Django 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
 
 
 <img align="right" src="https://i.ibb.co/H2RBdWQ/hire-python-developer.png" alt="developer" border="0" width='200'/>
