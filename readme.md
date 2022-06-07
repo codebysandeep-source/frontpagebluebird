@@ -10,7 +10,7 @@
 ## DJANGO FULLSTACK WEBAPP DEVELOPER
 
 ### About me
-Hi I'm Sandeep Kr Chauhan. I have a strong passion for webapp development. I specialize in front-end & back-end development and my passion is all about building  an elegant  and professional user interface and website. I also do branding and identity design such as  logo design, along with photo editing and other graphic.
+Hi I'm Sandeep Kr Chauhan. I have a strong passion for webapp development. I specialize in Python and Django and my passion is all about building  an elegant  and professional user interface and website. I also do branding and identity design such as  logo design, along with photo editing and other graphic.
 
 ### Contact
 Do you fancy saying hi to me or you want to get started with your project and you need my help? Feel free to contact me.
