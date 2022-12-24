@@ -7,7 +7,7 @@
  [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sandeepkumarchauhan/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:sandeepkc510@gmail.com)
 
-## DJANGO FULLSTACK WEBAPP DEVELOPER
+## FULLSTACK WEBA DEVELOPER
 
 ### About me
 Hi I'm Sandeep Kr Chauhan. I have a strong passion for programming and problem solving. I specialize in Python and Django and I also do photo editing and other graphic.
