@@ -14,8 +14,8 @@ Hi I'm Sandeep Kr Chauhan. I have a strong passion for programming and problem s
 
 ### Contact
 Do you fancy saying hi to me or you want to get started with your project and you need my help? Feel free to contact me.
-#### sandeepkc510@gmail.com
-#### +91 7047123239 / 9474476085
+#### sandeepkc422@gmail.com
+#### +91 9933661807
 
 - 🥅 2022 Goals: Become a Django FullStack WebApp Developer.
 
