@@ -1,4 +1,4 @@
-### Hi there, I'm Sandeep Chauhan , a passionate FullStack Web Developer based on Angular, Nodejs - Express. 
+### Hi there, I'm Sandeep Chauhan , a passionate FullStack Web Developer. 
 
 
 <img align="right" src="https://i.ibb.co/H2RBdWQ/hire-python-developer.png" alt="developer" border="0" width='200'/>
