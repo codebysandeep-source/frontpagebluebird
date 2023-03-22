@@ -34,8 +34,8 @@ Do you fancy saying hi to me or you want to get started with your project and yo
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fangular-icon-logo-png-transparent.png&f=1&nofb=1&ipt=cd4fc680812ff4b52ed024f3dae69caac1411fe544d90bcb9387a6abef6b4313&ipo=images" />
-<img align="left" alt="HTML5" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-logo-png--375.png&f=1&nofb=1&ipt=c34fe77dfe60e9796c067e9fa486f8e143e2e61786d80875d6b1106108c4f825&ipo=images" />
+<img align="left" alt="Angular" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fangular-icon-logo-png-transparent.png&f=1&nofb=1&ipt=cd4fc680812ff4b52ed024f3dae69caac1411fe544d90bcb9387a6abef6b4313&ipo=images" />
+<img align="left" alt="Nodejs" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-logo-png--375.png&f=1&nofb=1&ipt=c34fe77dfe60e9796c067e9fa486f8e143e2e61786d80875d6b1106108c4f825&ipo=images" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -43,6 +43,7 @@ Do you fancy saying hi to me or you want to get started with your project and yo
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="Laravel" width="26px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Flaravel-logo-png-laravel-lumen-manipulating-route-parameters-syed-sirajul-islam-1024x400.png&f=1&nofb=1&ipt=cfdac819baf65a41935f994fa443c8309cfb961d457be4cbddd8216578e75268&ipo=images)" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
