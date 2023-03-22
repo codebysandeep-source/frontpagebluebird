@@ -7,17 +7,17 @@
  [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sandeepkumarchauhan/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:sandeepkc510@gmail.com)
 
-## FULLSTACK WEBA DEVELOPER
+## FULLSTACK WEB DEVELOPER
 
 ### About me
-Hi I'm Sandeep Kr Chauhan. I have a strong passion for programming and problem solving. I specialize in Python and Django and I also do photo editing and other graphic.
+Hi I'm Sandeep Kr Chauhan. I have a strong passion for programming and problem solving. I specialize in Angular and Nodejs and I also do photo editing and other graphic.
 
 ### Contact
 Do you fancy saying hi to me or you want to get started with your project and you need my help? Feel free to contact me.
 #### sandeepkc422@gmail.com
 #### +91 9933661807
 
-- 🥅 2022 Goals: Become a Django FullStack WebApp Developer.
+- 🥅 2023 Goals: Become a professional FullStack Web Developer.
 
 
 ### Connect with me:
@@ -34,7 +34,8 @@ Do you fancy saying hi to me or you want to get started with your project and yo
 
 ### Languages and Tools:
 
-
+<img align="left" alt="HTML5" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fangular-icon-logo-png-transparent.png&f=1&nofb=1&ipt=cd4fc680812ff4b52ed024f3dae69caac1411fe544d90bcb9387a6abef6b4313&ipo=images" />
+<img align="left" alt="HTML5" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FNode.js%2FNode.js-Logo.wine.png&f=1&nofb=1&ipt=99706d82679975cf68e59b5e0c255c88202525dbe6bb2579ecc2b81c1a6e6761&ipo=images" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
