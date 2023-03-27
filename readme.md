@@ -10,7 +10,7 @@
 ## FULLSTACK WEB DEVELOPER
 
 ### About me
-Hi I'm Sandeep Kr Chauhan. I have a strong passion for programming and problem solving. I specialize in Angular and Nodejs and I also do photo editing and other graphic.
+Hi I'm Sandeep Kr Chauhan. I have a strong passion for programming and problem solving. I specialize in PHP, Laravel, Python and Django.
 
 ### Contact
 Do you fancy saying hi to me or you want to get started with your project and you need my help? Feel free to contact me.
